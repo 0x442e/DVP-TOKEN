@@ -20,7 +20,7 @@ numbers of professional blockchain security companies and it is extremely high
 secured.
 - Constant aggregate: There is no design for destruction and
 issuance, so the total amount of tokens is fixed.1.3 Usage1.3.1 for the
-blockchain projects to issue a bounty deposit
+blockchain projects to issue a bounty deposit3
 
 #### Usage
 
